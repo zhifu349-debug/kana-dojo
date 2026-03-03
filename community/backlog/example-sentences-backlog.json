@@ -393,7 +393,7 @@
     "jlpt": "N5",
     "id": 44,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "会議は予定より早く終わりました。",
@@ -483,7 +483,7 @@
     "jlpt": "N2",
     "id": 54,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "漢字の意味を文脈で推測する力が大切だ。",
@@ -492,7 +492,7 @@
     "jlpt": "N2",
     "id": 55,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "週末は友達と映画を見に行くつもりです。",
@@ -500,7 +500,7 @@
     "english": "I plan to go to a movie with friends this weekend.",
     "jlpt": "N4",
     "id": 56,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
